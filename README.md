@@ -236,6 +236,8 @@ Dans Sensu, les Entities représentent les instances surveillées (machines, con
 -  **Cluster Sensu** --> un ensemble de trois nodes backend qui bossent ensemble
   Plus d'infos sur les clusters dans la [doc](https://docs.sensu.io/sensu-go/latest/operations/deploy-sensu/cluster-sensu/).
 
+---
+
 ### CheatSheet
 
  La [doc](https://docs.sensu.io/sensu-go/latest/sensuctl/) pour sensuctl
