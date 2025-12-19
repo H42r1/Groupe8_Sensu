@@ -199,7 +199,7 @@ C'est un outil de monitoring basé sur Go qui supporte le monitoring par push (C
 
 ### Architecture de Sensu
 
-![](attachments/Pasted%20image%2020251215205319.png)
+![](./Pasted%20image%2020251215205319.png)
 
 *Explication de l'infra à faire*
 
